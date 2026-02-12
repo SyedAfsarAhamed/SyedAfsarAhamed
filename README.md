@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Afsar, Graduated B.Tech CSE student passionate about Python 🐍<br> Data Science 📊<br> Backend Development 🌐. <br>I enjoy building real-world projects🚀<br> I Love improving my problem-solving skills 💡<br> Currently preparing for technical interviews and aiming to work in a reputed tech company 💼.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm Afsar, Graduated B.Tech CSE student passionate about Python 🐍<br>📊 Data Science <br>🌐 Backend Development  <br>🚀I enjoy building real-world projects<br>💡 I Love improving my problem-solving skills <br>💼 Currently preparing for technical interviews and aiming to work in a reputed tech company <br>🌱 I’m currently learning<br>💬 Ask me about
 
 
 ## 🌐 Socials:
