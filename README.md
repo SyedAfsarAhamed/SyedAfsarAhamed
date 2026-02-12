@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently seeking for an opportunity <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm Afsar, Graduated B.Tech CSE student passionate about Python 🐍<br> Data Science 📊<br> Backend Development 🌐. <br>I enjoy building real-world projects <br>🚀 and I Love improving my problem-solving skills 💡. Currently preparing for technical interviews and aiming to work in a reputed tech company 💼.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SyedAfsarAhamed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there Have a Good Day 👋
 
 <!--
 **SyedAfsarAhamed/SyedAfsarAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
